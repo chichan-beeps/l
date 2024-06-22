@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Forest
+* source:	https://sketchfab.com/3d-models/cute-forest-91006ac3261c4b72aa93c7b8937e6548
+* author:	citron.vert (https://sketchfab.com/citron.vert)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Forest" (https://sketchfab.com/3d-models/cute-forest-91006ac3261c4b72aa93c7b8937e6548) by citron.vert (https://sketchfab.com/citron.vert) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
